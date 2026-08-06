@@ -220,3 +220,17 @@ __marimo__/
 
 # egg-info
 src.egg-info/
+
+# log file 
+logs
+
+
+# notebook
+exp_notebook1.ipynb
+rf_model.pkl
+notebook/rf_model.pkl
+
+
+# demo 
+demo.pyexp_notebook1.ipynb
+rf_model.pkl
