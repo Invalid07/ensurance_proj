@@ -1,3 +1,4 @@
-from src.logger import logging
+from src.pipline.training_pipeline import TrainPipeline
 
-logging.info("Starting the demo script...")
+pipline = TrainPipeline()
+pipline.run_pipeline()
