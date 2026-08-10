@@ -234,3 +234,7 @@ notebook/rf_model.pkl
 # demo 
 demo.pyexp_notebook1.ipynb
 rf_model.pkl
+artifact
+
+# artifact
+../artifact
