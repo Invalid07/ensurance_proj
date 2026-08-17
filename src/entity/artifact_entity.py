@@ -17,7 +17,7 @@ class DataValidationArtifact:
 #     validation_status: bool
 #     message :str 
 #     validation_report_file_path:str
-
+ 
 
 @dataclass
 class DataTransformationArtifact:
