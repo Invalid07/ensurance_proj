@@ -1,8 +1,8 @@
 import os
 from datetime import date
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 
-load_dotenv()
+# load_dotenv()
 
 # For MongoDB connection
 DATABASE_NAME = "Proj1"
